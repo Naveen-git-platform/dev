@@ -50,7 +50,12 @@ export function ConstituencyExplorer({facilities, onSelectFacility, selectedName
     const specialtyMatch = !special || specialFilters.find(s=>s.id===special)?.terms.some(t=>hay.includes(t));
     return seatMatch && ownerMatch && specialtyMatch;
   };
-  const matchingFacilities = facilities.filter(match);\n  const count = matchingFacilities.length;\n  useEffect(()=>{ const isDefault = seat==="All constituencies" && owner==="All ownership" && !special; onFilterIds(isDefault?null:matchingFacilities.map(f=>f.id)); },[seat,owner,special,facilities]);
+  const matchingFacilities = facilities.filter(match);
+  const count = matchingFacilities.length;
+  useEffect(() => {
+    const isDefault = seat === "All constituencies" && owner === "All ownership" && !special;
+    onFilterIds(isDefault ? null : matchingFacilities.map(f => f.id));
+  }, [seat, owner, special, facilities, onFilterIds]);
   return <section className="constituency-explorer">
     <div className="explorer-heading"><div><span className="section-kicker">HEALTHCARE INTELLIGENCE</span><h2>Explore by constituency</h2><p>Browse local healthcare clusters and narrow the directory by ownership or specialty.</p></div><div className="seat-count"><Hospital size={17}/><b>{count}</b><span>matching listings</span></div></div>
     <div className="explorer-controls">
