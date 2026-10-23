@@ -1,0 +1,1047 @@
+[
+  {
+    "id": "seed-001",
+    "name": "Apollo Hospitals Jubilee Hills",
+    "category": "hospital",
+    "lat": 17.4139,
+    "lon": 78.4146,
+    "area": "Jubilee Hills",
+    "address": "Jubilee Hills, Hyderabad, Telangana, India",
+    "ownership": "Apollo Hospitals",
+    "website": "https://apollohospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo%20Hospitals%20Jubilee%20Hills%20Jubilee%20Hills%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Apollo Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-002",
+    "name": "Apollo Hospitals, Financial District",
+    "category": "hospital",
+    "lat": 17.4188,
+    "lon": 78.3375,
+    "area": "Financial District",
+    "address": "Financial District, Nanakramguda, Telangana, India",
+    "ownership": "Apollo Hospitals",
+    "website": "https://apollohospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo%20Hospitals%2C%20Financial%20District%20Financial%20District%2C%20Nanakramguda%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Apollo Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-003",
+    "name": "KIMS Hospitals Secunderabad",
+    "category": "hospital",
+    "lat": 17.4399,
+    "lon": 78.4983,
+    "area": "Minister Road",
+    "address": "Minister Road, Secunderabad, Telangana, India",
+    "ownership": "KIMS Hospitals",
+    "website": "https://kimshospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=KIMS%20Hospitals%20Secunderabad%20Minister%20Road%2C%20Secunderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "KIMS Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-004",
+    "name": "KIMS Hospitals Kondapur",
+    "category": "hospital",
+    "lat": 17.4656,
+    "lon": 78.3656,
+    "area": "Kondapur",
+    "address": "Kondapur, Hyderabad, Telangana, India",
+    "ownership": "KIMS Hospitals",
+    "website": "https://kimshospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=KIMS%20Hospitals%20Kondapur%20Kondapur%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "KIMS Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-005",
+    "name": "Yashoda Hospitals Somajiguda",
+    "category": "hospital",
+    "lat": 17.4239,
+    "lon": 78.4597,
+    "area": "Raj Bhavan Road",
+    "address": "Raj Bhavan Road, Somajiguda, Telangana, India",
+    "ownership": "Yashoda Hospitals",
+    "website": "https://yashodahospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Yashoda%20Hospitals%20Somajiguda%20Raj%20Bhavan%20Road%2C%20Somajiguda%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Yashoda Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-006",
+    "name": "Yashoda Hospitals Secunderabad",
+    "category": "hospital",
+    "lat": 17.442,
+    "lon": 78.5023,
+    "area": "Alexander Road",
+    "address": "Alexander Road, Secunderabad, Telangana, India",
+    "ownership": "Yashoda Hospitals",
+    "website": "https://yashodahospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Yashoda%20Hospitals%20Secunderabad%20Alexander%20Road%2C%20Secunderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Yashoda Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-007",
+    "name": "Yashoda Hospitals Malakpet",
+    "category": "hospital",
+    "lat": 17.3732,
+    "lon": 78.4935,
+    "area": "Nalgonda X Roads",
+    "address": "Nalgonda X Roads, Malakpet, Telangana, India",
+    "ownership": "Yashoda Hospitals",
+    "website": "https://yashodahospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Yashoda%20Hospitals%20Malakpet%20Nalgonda%20X%20Roads%2C%20Malakpet%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Yashoda Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-008",
+    "name": "Yashoda Hospitals Hitec City",
+    "category": "hospital",
+    "lat": 17.4502,
+    "lon": 78.3815,
+    "area": "HITEC City",
+    "address": "HITEC City, Hyderabad, Telangana, India",
+    "ownership": "Yashoda Hospitals",
+    "website": "https://yashodahospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Yashoda%20Hospitals%20Hitec%20City%20HITEC%20City%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Yashoda Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-009",
+    "name": "AIG Hospitals",
+    "category": "hospital",
+    "lat": 17.4401,
+    "lon": 78.3655,
+    "area": "Mindspace Road",
+    "address": "Mindspace Road, Gachibowli, Telangana, India",
+    "ownership": "AIG Hospitals",
+    "website": "https://aighospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=AIG%20Hospitals%20Mindspace%20Road%2C%20Gachibowli%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "AIG Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-010",
+    "name": "Continental Hospitals",
+    "category": "hospital",
+    "lat": 17.4165,
+    "lon": 78.3428,
+    "area": "Financial District",
+    "address": "Financial District, Nanakramguda, Telangana, India",
+    "ownership": "Continental Hospitals",
+    "website": "https://continentalhospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Continental%20Hospitals%20Financial%20District%2C%20Nanakramguda%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Continental Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-011",
+    "name": "CARE Hospitals Banjara Hills",
+    "category": "hospital",
+    "lat": 17.4147,
+    "lon": 78.4482,
+    "area": "Road No. 1",
+    "address": "Road No. 1, Banjara Hills, Telangana, India",
+    "ownership": "CARE Hospitals",
+    "website": "https://carehospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=CARE%20Hospitals%20Banjara%20Hills%20Road%20No.%201%2C%20Banjara%20Hills%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "CARE Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-012",
+    "name": "CARE Hospitals HITEC City",
+    "category": "hospital",
+    "lat": 17.459,
+    "lon": 78.3714,
+    "area": "HITEC City",
+    "address": "HITEC City, Hyderabad, Telangana, India",
+    "ownership": "CARE Hospitals",
+    "website": "https://carehospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=CARE%20Hospitals%20HITEC%20City%20HITEC%20City%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "CARE Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-013",
+    "name": "NIMS Hospital",
+    "category": "hospital",
+    "lat": 17.4239,
+    "lon": 78.4528,
+    "area": "Punjagutta",
+    "address": "Punjagutta, Hyderabad, Telangana, India",
+    "ownership": "Government / NIMS",
+    "website": "https://nims.edu.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=NIMS%20Hospital%20Punjagutta%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government / NIMS",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-014",
+    "name": "Gandhi Hospital",
+    "category": "hospital",
+    "lat": 17.4285,
+    "lon": 78.5011,
+    "area": "Musheerabad",
+    "address": "Musheerabad, Secunderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "https://gandhihospital.telangana.gov.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Gandhi%20Hospital%20Musheerabad%2C%20Secunderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-015",
+    "name": "Osmania General Hospital",
+    "category": "hospital",
+    "lat": 17.3715,
+    "lon": 78.4747,
+    "area": "Afzal Gunj",
+    "address": "Afzal Gunj, Hyderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Osmania%20General%20Hospital%20Afzal%20Gunj%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-016",
+    "name": "Area Hospital Kondapur",
+    "category": "hospital",
+    "lat": 17.4628,
+    "lon": 78.365,
+    "area": "Kondapur",
+    "address": "Kondapur, Hyderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Area%20Hospital%20Kondapur%20Kondapur%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-017",
+    "name": "Niloufer Hospital",
+    "category": "hospital",
+    "lat": 17.3937,
+    "lon": 78.4584,
+    "area": "Red Hills",
+    "address": "Red Hills, Hyderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Niloufer%20Hospital%20Red%20Hills%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-018",
+    "name": "MNJ Institute of Oncology",
+    "category": "hospital",
+    "lat": 17.3982,
+    "lon": 78.4571,
+    "area": "Red Hills",
+    "address": "Red Hills, Hyderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "https://mnjiorcc.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=MNJ%20Institute%20of%20Oncology%20Red%20Hills%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-019",
+    "name": "Government ENT Hospital",
+    "category": "hospital",
+    "lat": 17.398,
+    "lon": 78.478,
+    "area": "Koti",
+    "address": "Koti, Hyderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Government%20ENT%20Hospital%20Koti%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-020",
+    "name": "Government Maternity Hospital Sultan Bazar",
+    "category": "hospital",
+    "lat": 17.3854,
+    "lon": 78.4842,
+    "area": "Koti",
+    "address": "Koti, Hyderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Government%20Maternity%20Hospital%20Sultan%20Bazar%20Koti%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-021",
+    "name": "Rainbow Children's Hospital Banjara Hills",
+    "category": "hospital",
+    "lat": 17.4195,
+    "lon": 78.4487,
+    "area": "Banjara Hills",
+    "address": "Banjara Hills, Hyderabad, Telangana, India",
+    "ownership": "Rainbow Children's Hospital",
+    "website": "https://rainbowhospitals.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Rainbow%20Children's%20Hospital%20Banjara%20Hills%20Banjara%20Hills%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Rainbow Children's Hospital",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-022",
+    "name": "Rainbow Children's Hospital Kondapur",
+    "category": "hospital",
+    "lat": 17.4638,
+    "lon": 78.366,
+    "area": "Kondapur",
+    "address": "Kondapur, Hyderabad, Telangana, India",
+    "ownership": "Rainbow Children's Hospital",
+    "website": "https://rainbowhospitals.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Rainbow%20Children's%20Hospital%20Kondapur%20Kondapur%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Rainbow Children's Hospital",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-023",
+    "name": "Fernandez Hospital Bogulkunta",
+    "category": "hospital",
+    "lat": 17.3895,
+    "lon": 78.4808,
+    "area": "Bogulkunta",
+    "address": "Bogulkunta, Hyderabad, Telangana, India",
+    "ownership": "Fernandez Hospital",
+    "website": "https://fernandez.foundation",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Fernandez%20Hospital%20Bogulkunta%20Bogulkunta%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Fernandez Hospital",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-024",
+    "name": "Fernandez Hospital Hyderguda",
+    "category": "hospital",
+    "lat": 17.4004,
+    "lon": 78.4774,
+    "area": "Hyderguda",
+    "address": "Hyderguda, Hyderabad, Telangana, India",
+    "ownership": "Fernandez Hospital",
+    "website": "https://fernandez.foundation",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Fernandez%20Hospital%20Hyderguda%20Hyderguda%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Fernandez Hospital",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-025",
+    "name": "Medicover Hospitals Hitec City",
+    "category": "hospital",
+    "lat": 17.4507,
+    "lon": 78.3802,
+    "area": "HITEC City",
+    "address": "HITEC City, Hyderabad, Telangana, India",
+    "ownership": "Medicover Hospitals",
+    "website": "https://medicoverhospitals.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Medicover%20Hospitals%20Hitec%20City%20HITEC%20City%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Medicover Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-026",
+    "name": "Sunshine Hospitals Gachibowli",
+    "category": "hospital",
+    "lat": 17.4405,
+    "lon": 78.3565,
+    "area": "Gachibowli",
+    "address": "Gachibowli, Hyderabad, Telangana, India",
+    "ownership": "Sunshine Hospitals",
+    "website": "https://sunshinehospitals.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Sunshine%20Hospitals%20Gachibowli%20Gachibowli%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Sunshine Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-027",
+    "name": "Prathima Hospitals Kukatpally",
+    "category": "hospital",
+    "lat": 17.4933,
+    "lon": 78.399,
+    "area": "Kukatpally",
+    "address": "Kukatpally, Hyderabad, Telangana, India",
+    "ownership": "Prathima Hospitals",
+    "website": "https://prathimahospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Prathima%20Hospitals%20Kukatpally%20Kukatpally%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Prathima Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-028",
+    "name": "TX Hospitals Banjara Hills",
+    "category": "hospital",
+    "lat": 17.4186,
+    "lon": 78.4489,
+    "area": "Banjara Hills",
+    "address": "Banjara Hills, Hyderabad, Telangana, India",
+    "ownership": "TX Hospitals",
+    "website": "https://txhospitals.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=TX%20Hospitals%20Banjara%20Hills%20Banjara%20Hills%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "TX Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-029",
+    "name": "Basavatarakam Indo American Cancer Hospital",
+    "category": "hospital",
+    "lat": 17.421,
+    "lon": 78.4345,
+    "area": "Road No. 10",
+    "address": "Road No. 10, Banjara Hills, Telangana, India",
+    "ownership": "Trust",
+    "website": "https://bhaarathcancerhospital.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Basavatarakam%20Indo%20American%20Cancer%20Hospital%20Road%20No.%2010%2C%20Banjara%20Hills%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Trust",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-030",
+    "name": "LV Prasad Eye Institute Banjara Hills",
+    "category": "hospital",
+    "lat": 17.4239,
+    "lon": 78.4328,
+    "area": "Banjara Hills",
+    "address": "Banjara Hills, Hyderabad, Telangana, India",
+    "ownership": "Trust / NGO",
+    "website": "https://lvpei.org",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=LV%20Prasad%20Eye%20Institute%20Banjara%20Hills%20Banjara%20Hills%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Trust / NGO",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-031",
+    "name": "LV Prasad Eye Institute Kallam Anji Reddy Campus",
+    "category": "hospital",
+    "lat": 17.4378,
+    "lon": 78.3424,
+    "area": "Banjara Hills Road No. 2",
+    "address": "Banjara Hills Road No. 2, Hyderabad, Telangana, India",
+    "ownership": "Trust / NGO",
+    "website": "https://lvpei.org",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=LV%20Prasad%20Eye%20Institute%20Kallam%20Anji%20Reddy%20Campus%20Banjara%20Hills%20Road%20No.%202%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Trust / NGO",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-032",
+    "name": "Apollo Medical Centre Kondapur",
+    "category": "hospital",
+    "lat": 17.4621,
+    "lon": 78.3671,
+    "area": "Kondapur",
+    "address": "Kondapur, Hyderabad, Telangana, India",
+    "ownership": "Apollo Hospitals",
+    "website": "https://apollohospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo%20Medical%20Centre%20Kondapur%20Kondapur%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Apollo Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-033",
+    "name": "Maxivision Eye Hospital Banjara Hills",
+    "category": "hospital",
+    "lat": 17.418,
+    "lon": 78.448,
+    "area": "Banjara Hills",
+    "address": "Banjara Hills, Hyderabad, Telangana, India",
+    "ownership": "Maxivision",
+    "website": "https://maxivisioneyehospital.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Maxivision%20Eye%20Hospital%20Banjara%20Hills%20Banjara%20Hills%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Maxivision",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-034",
+    "name": "Sarojini Devi Eye Hospital",
+    "category": "hospital",
+    "lat": 17.3982,
+    "lon": 78.4521,
+    "area": "Mehdipatnam Road",
+    "address": "Mehdipatnam Road, Hyderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Sarojini%20Devi%20Eye%20Hospital%20Mehdipatnam%20Road%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-035",
+    "name": "ESI Hospital Sanathnagar",
+    "category": "hospital",
+    "lat": 17.4564,
+    "lon": 78.4463,
+    "area": "Sanathnagar",
+    "address": "Sanathnagar, Hyderabad, Telangana, India",
+    "ownership": "Government / ESI",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=ESI%20Hospital%20Sanathnagar%20Sanathnagar%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government / ESI",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-036",
+    "name": "Area Hospital Vanasthalipuram",
+    "category": "hospital",
+    "lat": 17.3367,
+    "lon": 78.5682,
+    "area": "Vanasthalipuram",
+    "address": "Vanasthalipuram, Hyderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Area%20Hospital%20Vanasthalipuram%20Vanasthalipuram%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-037",
+    "name": "King Koti District Hospital",
+    "category": "hospital",
+    "lat": 17.3894,
+    "lon": 78.4772,
+    "area": "King Koti",
+    "address": "King Koti, Hyderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=King%20Koti%20District%20Hospital%20King%20Koti%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-038",
+    "name": "Bhoiguda Government Hospital",
+    "category": "hospital",
+    "lat": 17.4296,
+    "lon": 78.5018,
+    "area": "Bhoiguda",
+    "address": "Bhoiguda, Secunderabad, Telangana, India",
+    "ownership": "Government",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Bhoiguda%20Government%20Hospital%20Bhoiguda%2C%20Secunderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Government",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-039",
+    "name": "Princess Esra Hospital",
+    "category": "hospital",
+    "lat": 17.3688,
+    "lon": 78.4748,
+    "area": "Purani Haveli",
+    "address": "Purani Haveli, Hyderabad, Telangana, India",
+    "ownership": "Private / Trust",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Princess%20Esra%20Hospital%20Purani%20Haveli%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Private / Trust",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-040",
+    "name": "Shadan Institute of Medical Sciences",
+    "category": "hospital",
+    "lat": 17.3217,
+    "lon": 78.372,
+    "area": "Himayat Sagar Road",
+    "address": "Himayat Sagar Road, Hyderabad, Telangana, India",
+    "ownership": "Shadan",
+    "website": "https://shadan.org",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Shadan%20Institute%20of%20Medical%20Sciences%20Himayat%20Sagar%20Road%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Shadan",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-041",
+    "name": "Deccan College of Medical Sciences Owaisi Hospital",
+    "category": "hospital",
+    "lat": 17.3335,
+    "lon": 78.4732,
+    "area": "Kanchanbagh",
+    "address": "Kanchanbagh, Hyderabad, Telangana, India",
+    "ownership": "Owaisi Hospital",
+    "website": "https://dcms.ac.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Deccan%20College%20of%20Medical%20Sciences%20Owaisi%20Hospital%20Kanchanbagh%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Owaisi Hospital",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-042",
+    "name": "Olive Hospitals Mehdipatnam",
+    "category": "hospital",
+    "lat": 17.394,
+    "lon": 78.4398,
+    "area": "Mehdipatnam",
+    "address": "Mehdipatnam, Hyderabad, Telangana, India",
+    "ownership": "Olive Hospitals",
+    "website": "https://olivehospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Olive%20Hospitals%20Mehdipatnam%20Mehdipatnam%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Olive Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-043",
+    "name": "Aware Gleneagles Global Hospital LB Nagar",
+    "category": "hospital",
+    "lat": 17.3454,
+    "lon": 78.552,
+    "area": "LB Nagar",
+    "address": "LB Nagar, Hyderabad, Telangana, India",
+    "ownership": "Gleneagles",
+    "website": "https://gleneagleshospitals.co.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Aware%20Gleneagles%20Global%20Hospital%20LB%20Nagar%20LB%20Nagar%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Gleneagles",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-044",
+    "name": "Gleneagles Hospital Lakdi-ka-pul",
+    "category": "hospital",
+    "lat": 17.4042,
+    "lon": 78.462,
+    "area": "Lakdi-ka-pul",
+    "address": "Lakdi-ka-pul, Hyderabad, Telangana, India",
+    "ownership": "Gleneagles",
+    "website": "https://gleneagleshospitals.co.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Gleneagles%20Hospital%20Lakdi-ka-pul%20Lakdi-ka-pul%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Gleneagles",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-045",
+    "name": "Yashoda Hospitals Hitec City",
+    "category": "hospital",
+    "lat": 17.4499,
+    "lon": 78.3818,
+    "area": "HITEC City",
+    "address": "HITEC City, Hyderabad, Telangana, India",
+    "ownership": "Yashoda Hospitals",
+    "website": "https://yashodahospitals.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Yashoda%20Hospitals%20Hitec%20City%20HITEC%20City%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Yashoda Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-046",
+    "name": "Kamineni Hospitals LB Nagar",
+    "category": "hospital",
+    "lat": 17.3464,
+    "lon": 78.5505,
+    "area": "LB Nagar",
+    "address": "LB Nagar, Hyderabad, Telangana, India",
+    "ownership": "Kamineni Hospitals",
+    "website": "https://kamineni.org",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Kamineni%20Hospitals%20LB%20Nagar%20LB%20Nagar%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Kamineni Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-047",
+    "name": "Kamineni Hospitals King Koti",
+    "category": "hospital",
+    "lat": 17.389,
+    "lon": 78.48,
+    "area": "King Koti",
+    "address": "King Koti, Hyderabad, Telangana, India",
+    "ownership": "Kamineni Hospitals",
+    "website": "https://kamineni.org",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Kamineni%20Hospitals%20King%20Koti%20King%20Koti%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Kamineni Hospitals",
+      "category": "hospital"
+    }
+  },
+  {
+    "id": "seed-048",
+    "name": "Apollo Clinic Madhapur",
+    "category": "clinic",
+    "lat": 17.4482,
+    "lon": 78.3915,
+    "area": "Madhapur",
+    "address": "Madhapur, Hyderabad, Telangana, India",
+    "ownership": "Apollo Clinic",
+    "website": "https://apolloclinic.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo%20Clinic%20Madhapur%20Madhapur%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Apollo Clinic",
+      "category": "clinic"
+    }
+  },
+  {
+    "id": "seed-049",
+    "name": "Apollo Clinic Kukatpally",
+    "category": "clinic",
+    "lat": 17.4931,
+    "lon": 78.3995,
+    "area": "Kukatpally",
+    "address": "Kukatpally, Hyderabad, Telangana, India",
+    "ownership": "Apollo Clinic",
+    "website": "https://apolloclinic.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo%20Clinic%20Kukatpally%20Kukatpally%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Apollo Clinic",
+      "category": "clinic"
+    }
+  },
+  {
+    "id": "seed-050",
+    "name": "Apollo Pharmacy Jubilee Hills",
+    "category": "pharmacy",
+    "lat": 17.432,
+    "lon": 78.407,
+    "area": "Jubilee Hills",
+    "address": "Jubilee Hills, Hyderabad, Telangana, India",
+    "ownership": "Apollo Pharmacy",
+    "website": "",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo%20Pharmacy%20Jubilee%20Hills%20Jubilee%20Hills%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Apollo Pharmacy",
+      "category": "pharmacy"
+    }
+  },
+  {
+    "id": "seed-051",
+    "name": "Vijaya Diagnostic Centre Himayatnagar",
+    "category": "laboratory",
+    "lat": 17.4025,
+    "lon": 78.4893,
+    "area": "Himayatnagar",
+    "address": "Himayatnagar, Hyderabad, Telangana, India",
+    "ownership": "Vijaya Diagnostic Centre",
+    "website": "https://vijayadiagnostic.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Vijaya%20Diagnostic%20Centre%20Himayatnagar%20Himayatnagar%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Vijaya Diagnostic Centre",
+      "category": "laboratory"
+    }
+  },
+  {
+    "id": "seed-052",
+    "name": "Vijaya Diagnostic Centre Kondapur",
+    "category": "laboratory",
+    "lat": 17.463,
+    "lon": 78.3642,
+    "area": "Kondapur",
+    "address": "Kondapur, Hyderabad, Telangana, India",
+    "ownership": "Vijaya Diagnostic Centre",
+    "website": "https://vijayadiagnostic.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Vijaya%20Diagnostic%20Centre%20Kondapur%20Kondapur%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Vijaya Diagnostic Centre",
+      "category": "laboratory"
+    }
+  },
+  {
+    "id": "seed-053",
+    "name": "Vijaya Diagnostic Centre Kukatpally",
+    "category": "laboratory",
+    "lat": 17.493,
+    "lon": 78.398,
+    "area": "Kukatpally",
+    "address": "Kukatpally, Hyderabad, Telangana, India",
+    "ownership": "Vijaya Diagnostic Centre",
+    "website": "https://vijayadiagnostic.com",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Vijaya%20Diagnostic%20Centre%20Kukatpally%20Kukatpally%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Vijaya Diagnostic Centre",
+      "category": "laboratory"
+    }
+  },
+  {
+    "id": "seed-054",
+    "name": "Red Cross Blood Bank Hyderabad",
+    "category": "blood_bank",
+    "lat": 17.402,
+    "lon": 78.478,
+    "area": "Koti",
+    "address": "Koti, Hyderabad, Telangana, India",
+    "ownership": "Indian Red Cross Society",
+    "website": "https://indianredcross.org",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Cross%20Blood%20Bank%20Hyderabad%20Koti%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Indian Red Cross Society",
+      "category": "blood_bank"
+    }
+  },
+  {
+    "id": "seed-055",
+    "name": "Thalassemia and Sickle Cell Society",
+    "category": "clinic",
+    "lat": 17.394,
+    "lon": 78.468,
+    "area": "Nampally",
+    "address": "Nampally, Hyderabad, Telangana, India",
+    "ownership": "Trust / NGO",
+    "website": "https://tscs.org.in",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Thalassemia%20and%20Sickle%20Cell%20Society%20Nampally%2C%20Hyderabad%20Hyderabad",
+    "phone": "",
+    "hours": "",
+    "tags": {
+      "source": "Curated starter listing; verify details",
+      "operator": "Trust / NGO",
+      "category": "clinic"
+    }
+  }
+]
