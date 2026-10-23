@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { MapPin, ChevronDown, HeartPulse, Hospital, Building2, Baby, ShieldPlus, Cross, Star } from "lucide-react";
 import type { Facility } from "./page";
 
@@ -37,7 +37,7 @@ const specialFilters = [
   {id:"top", label:"Top hospitals", icon:Star, terms:["apollo","kims","yashoda","continental","aig","care hospitals"]}
 ];
 
-export function ConstituencyExplorer({facilities, onSelectFacility, selectedName}:{facilities:Facility[];onSelectFacility:(name:string)=>void;selectedName:string}) {
+export function ConstituencyExplorer({facilities, onSelectFacility, selectedName, onFilterIds}:{facilities:Facility[];onSelectFacility:(name:string)=>void;selectedName:string;onFilterIds:(ids:string[]|null)=>void}) {
   const [seat,setSeat] = useState("All constituencies");
   const [owner,setOwner] = useState("All ownership");
   const [special,setSpecial] = useState("");
@@ -50,7 +50,7 @@ export function ConstituencyExplorer({facilities, onSelectFacility, selectedName
     const specialtyMatch = !special || specialFilters.find(s=>s.id===special)?.terms.some(t=>hay.includes(t));
     return seatMatch && ownerMatch && specialtyMatch;
   };
-  const count = facilities.filter(match).length;
+  const matchingFacilities = facilities.filter(match);\n  const count = matchingFacilities.length;\n  useEffect(()=>{ const isDefault = seat==="All constituencies" && owner==="All ownership" && !special; onFilterIds(isDefault?null:matchingFacilities.map(f=>f.id)); },[seat,owner,special,facilities]);
   return <section className="constituency-explorer">
     <div className="explorer-heading"><div><span className="section-kicker">HEALTHCARE INTELLIGENCE</span><h2>Explore by constituency</h2><p>Browse local healthcare clusters and narrow the directory by ownership or specialty.</p></div><div className="seat-count"><Hospital size={17}/><b>{count}</b><span>matching listings</span></div></div>
     <div className="explorer-controls">
@@ -60,6 +60,6 @@ export function ConstituencyExplorer({facilities, onSelectFacility, selectedName
     <div className="specialty-chips">{specialFilters.map(s=>{const Icon=s.icon;return <button key={s.id} className={special===s.id?"specialty-chip active":"specialty-chip"} onClick={()=>setSpecial(special===s.id?"":s.id)}><Icon size={14}/>{s.label}</button>})}<button className="specialty-reset" onClick={()=>{setSeat("All constituencies");setOwner("All ownership");setSpecial("");}}>Reset</button></div>
     {selectedSeat&&<div className="seat-summary"><div className="seat-summary-title"><div><span className="section-kicker">AC · {selectedSeat.district.toUpperCase()}</span><h3>{selectedSeat.name}</h3></div><button onClick={()=>setSeat("All constituencies")}>All seats</button></div><p>{selectedSeat.summary}</p><div className="area-tags">{selectedSeat.areas.map(a=><span key={a}>{a}</span>)}</div><small>Neighborhood names are discovery hints, not official boundary geometry. Verify seat membership before relying on these results.</small></div>}
     <div className="seat-facility-preview"><span className="section-kicker">{selectedSeat?selectedSeat.name.toUpperCase():"QUICK CONSTITUENCY ACCESS"}</span><div className="seat-buttons">{CONSTITUENCIES.map(c=><button key={c.name} className={seat===c.name?"seat-button active":"seat-button"} onClick={()=>setSeat(c.name)}>{c.name}</button>)}</div></div>
-    <div className="explorer-results"><b>{count} matching facilities</b><span>Search results are based on available OpenStreetMap tags and address text.</span><div>{facilities.filter(match).slice(0,8).map(f=><button key={f.id} onClick={()=>onSelectFacility(f.id)} className={selectedName===f.id?"mini-facility active":"mini-facility"}><span>{f.name}</span><small>{f.area??f.address}</small></button>)}</div></div>
+    <div className="explorer-results"><b>{count} matching facilities</b><span>Search results are based on available OpenStreetMap tags and address text.</span><div>{matchingFacilities.slice(0,8).map(f=><button key={f.id} onClick={()=>onSelectFacility(f.id)} className={selectedName===f.id?"mini-facility active":"mini-facility"}><span>{f.name}</span><small>{f.area??f.address}</small></button>)}</div></div>
   </section>;
 }
